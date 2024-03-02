@@ -1,5 +1,7 @@
 # Hi there, I’m Daniel 👋
-Hi, I'm Daniel, an aspiring full-time student at UNSW with interests in back-end and front-end programming. I was also a Digital Consulting intern at Deloitte, and my interests are music, travelling and reading 😄
+Hi, I'm Daniel, a full-time software engineer at Macquarie Group with interests in back-end and front-end programming. I have also previously worked as a Digital Consulting intern at Deloitte.
+
+My interests are music, travelling and reading 😄
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/danielyang99/)
